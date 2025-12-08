@@ -1,5 +1,4 @@
 # sql-data-warehouse-project
-# ETL and Data Warehouse Project
 
 ## Overview
 I built an ETL process in SQL to gather data from different sources, clean and transform it, and load it into a data warehouse for easier analysis and reporting.
