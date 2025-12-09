@@ -2,6 +2,8 @@
 
 ## Overview
 I built an ETL process in SQL to gather data from different sources, clean and transform it, and load it into a data warehouse for easier analysis and reporting.
+<img width="931" height="483" alt="image" src="https://github.com/user-attachments/assets/ce90e170-3085-4e3c-b369-091fb8b56923" />
+
 
 ## Technologies Used
 - **SQL Server** — main database and data warehouse
