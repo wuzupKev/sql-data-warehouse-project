@@ -9,10 +9,11 @@ I built an ETL process in SQL to gather data from different sources, clean and t
 - [Optional: ETL tools if used, e.g., SSIS, Airflow]
 
 ## Data Sources
-- Source 1: [Description]
-- Source 2: [Description]
-- Source 3: [Description]
+- **CRM:** Salesforce, HubSpot  
+- **ERP:** SAP, Oracle NetSuite, Odoo  
+- **Other Sources:** Excel files, CSV imports, Web APIs, Third-party integrations
 
+  
 ## ETL Process
 1. **Extract:** Pull data from multiple sources.
 2. **Transform:** Clean, standardize, and apply business rules.
