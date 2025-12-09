@@ -4,9 +4,10 @@
 I built an ETL process in SQL to gather data from different sources, clean and transform it, and load it into a data warehouse for easier analysis and reporting.
 
 ## Technologies Used
-- SQL
-- [Optional: Your database, e.g., PostgreSQL, MySQL, SQL Server]
-- [Optional: ETL tools if used, e.g., SSIS, Airflow]
+- **SQL Server** — main database and data warehouse
+- **T-SQL** — data cleaning, transformation, and modeling
+- **SSIS** — ETL orchestration and data pipeline automation
+- **Bronze / Silver / Gold** architecture — layered data modeling for ingestion, refinement, and analytics
 
 ## Data Sources
 - **CRM:** Salesforce, HubSpot  
