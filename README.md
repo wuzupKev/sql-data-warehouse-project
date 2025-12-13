@@ -3,8 +3,6 @@
 ## Overview
 I built an ETL process in SQL to gather data from different sources, clean and transform it, and load it into a data warehouse for easier analysis and reporting.
 <img width="931" height="483" alt="image" src="https://github.com/user-attachments/assets/ce90e170-3085-4e3c-b369-091fb8b56923" />
-<img width="621" height="345" alt="image" src="https://github.com/user-attachments/assets/ccb9bbf3-f58f-4d20-871d-46ae76d0e962" />
-
 ## Technologies Used
 - **SQL Server** — main database and data warehouse
 - **T-SQL** — data cleaning, transformation, and modeling
@@ -23,9 +21,10 @@ I built an ETL process in SQL to gather data from different sources, clean and t
 3. **Load:** Insert processed data into the data warehouse.
 
 ## Data Warehouse Design
-- **Fact Tables:** [List fact tables]
-- **Dimension Tables:** [List dimension tables]
+- **Fact Tables:sales
+- **Dimension Tables:products,customers
 - **Schema Type:** Star Schema
+- <img width="621" height="345" alt="image" src="https://github.com/user-attachments/assets/ccb9bbf3-f58f-4d20-871d-46ae76d0e962" />
 
 ## Key Features
 - Data validation and quality checks
