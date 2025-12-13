@@ -24,7 +24,7 @@ I built an ETL process in SQL to gather data from different sources, clean and t
 - **Fact Tables:sales
 - **Dimension Tables:products,customers
 - **Schema Type:** Star Schema
-- <img width="621" height="345" alt="image" src="https://github.com/user-attachments/assets/ccb9bbf3-f58f-4d20-871d-46ae76d0e962" />
+<img width="621" height="345" alt="image" src="https://github.com/user-attachments/assets/ccb9bbf3-f58f-4d20-871d-46ae76d0e962" />
 
 ## Key Features
 - Data validation and quality checks
