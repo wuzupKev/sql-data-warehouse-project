@@ -4,6 +4,7 @@
 I built an ETL process in SQL using the **Medallion Architecture (Bronze–Silver–Gold)** to gather data from different sources, progressively clean and transform it, and load it into a data warehouse optimized for analysis and reporting.
 
 <img width="931" height="483" alt="image" src="https://github.com/user-attachments/assets/ce90e170-3085-4e3c-b369-091fb8b56923" />
+
 ## Technologies Used
 - **SQL Server** — main database and data warehouse
 - **T-SQL** — data cleaning, transformation, and modeling
